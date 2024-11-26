@@ -54,14 +54,10 @@ If you use this code or model in your research, please cite the following paper:
 }
 ```
 
-## Contributing
-
-We welcome contributions to this project! If you find bugs or would like to add new features, feel free to fork the repository and submit a pull request.
-
 
 ## Acknowledgements
 
-- We would like to thank the authors of previous works in temporal dynamic graph learning and spatiotemporal embedding models, whose contributions inspired the development of this model.
+We would like to thank the authors of previous works in temporal dynamic graph learning and spatiotemporal embedding models, whose contributions inspired the development of this model.
 
 ## Contact
 
