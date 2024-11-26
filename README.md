@@ -13,7 +13,7 @@ This repository contains the code implementation of the model, as presented in t
 
 ## Installation
 
-To use this repository, you need to have Python 3.7+ installed, along with some essential libraries. You can install the necessary dependencies using `pip`.
+To use this repository, you need to have Python 3.8+ installed, along with some essential libraries. You can install the necessary dependencies using `pip`.
 
 1. Clone this repository:
 
