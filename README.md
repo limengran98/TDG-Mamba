@@ -42,7 +42,7 @@ To train the TDG-Mamba model, run the following command:
 python main.py --data [facebook/game_of_thrones/formula/enron]
 ```
 
-This will start training the model using the configuration specified in `config_file.yaml`. Make sure to adjust the parameters in the configuration file according to your dataset and computational environment.
+Make sure to adjust the appropriate parameters in the configuration according to your dataset and computational environment.
 
 
 ## Citation
@@ -50,7 +50,7 @@ This will start training the model using the configuration specified in `config_
 If you use this code or model in your research, please cite the following paper:
 
 ```
-@article{your_paper_reference,
+@article{li2024mamba,
   author = {Mengran Li, Junzhou Chen, Bo Li, Yong Zhang, Ronghui Zhang, Siyuan Gong, Xiaolei Ma, and Zhihong Tian},
   title = {TDG-Mamba: Advanced Spatiotemporal Embedding for Temporal Dynamic Graph Learning via Bidirectional Information Propagation},
   journal = {IEEE Transactions on Computational Social Systems},
