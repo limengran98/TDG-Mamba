@@ -32,7 +32,7 @@ To use this repository, you need to have Python 3.7+ installed, along with some 
 
 ### Data Preparation
 
-For dataset-related instructions, please refer to the specific datafolder in this repository.
+This repository includes several datasets for training and evaluation. Specifically, the **Facebook dataset** is provided for use with the TDG-Mamba model. For detailed instructions on how to access and use the datasets, please refer to the [data folder in the GraphERT repository](https://github.com/moranbel/GraphERT/tree/main/data), which includes additional datasets and documentation.
 
 ### Quick Start
 
