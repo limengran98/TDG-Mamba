@@ -1,7 +1,3 @@
-Certainly! Here's a sample **README** for your GitHub project, based on the details you've provided:
-
----
-
 # TDG-Mamba: Advanced Spatiotemporal Embedding for Temporal Dynamic Graph Learning via Bidirectional Information Propagation
 
 ## Overview
