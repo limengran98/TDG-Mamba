@@ -18,7 +18,7 @@ To use this repository, you need to have Python 3.7+ installed, along with some 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/TDG-Mamba.git
+   git clone https://github.com/limengran98/TDG-Mamba.git
    cd code
    ```
 
